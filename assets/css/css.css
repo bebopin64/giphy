@@ -1,0 +1,26 @@
+.buttons {
+	text-align: center;
+	margin: 5px;
+}
+
+.newEmotion {
+	text-align: center;
+}
+
+.results {
+	margin: 10px;
+	float: left;
+}
+
+.gifContainer {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.banner {
+}
+
+.submit {
+	margin-top: 10px;
+}
